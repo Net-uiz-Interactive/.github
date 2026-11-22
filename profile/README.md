@@ -9,4 +9,4 @@
 
 ## Contact
 
-[https://github.blog](https://interactive.net-uiz.xyz/)
+[Website](https://interactive.net-uiz.xyz/)
