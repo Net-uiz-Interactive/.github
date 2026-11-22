@@ -9,4 +9,4 @@
 
 ## Contact
 
-[Website](https://interactive.net-uiz.xyz/)
+[Website](https://interactive.net-uiz.xyz/) - [Discord}(https://discord.gg/NNweBz2jhS)
