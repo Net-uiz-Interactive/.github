@@ -9,4 +9,4 @@
 
 ## Contact
 
-</a> · <a href="https://github.blog">Website</a>
+</a> · <a href="[https://github.blog](https://interactive.net-uiz.xyz/)">Website</a>
