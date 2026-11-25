@@ -1,6 +1,6 @@
 <div align="center">
 
-![App Screenshot](https://i.imgur.com/agVfSKh.png))
+![App Screenshot](https://i.imgur.com/agVfSKh.png)
 # Net-uiz Interactive
 
 </div>
